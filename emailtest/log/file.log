@@ -1,0 +1,12 @@
+2018-03-11 12:17:25 INFO  file - Country [id= test1@test.com, code= firstname1 , name=lastname1]
+2018-03-11 12:17:26 INFO  file - Country [id= test1@test.com, code= firstname1 , name=lastname2]
+2018-03-11 12:17:27 INFO  file - Country [id= test2@test.com, code= firstname2 , name=lastname2]
+2018-03-11 12:17:28 INFO  file - Country [id= test3@test.com, code= firstname3 , name=last"name3]
+2018-03-11 12:50:07 DEBUG file - Sending email to test1@test.com
+2018-03-11 12:50:08 INFO  file - Country [id= test1@test.com, code= firstname1 , name=lastname1]
+2018-03-11 12:50:09 INFO  file - Country [id= test1@test.com, code= firstname1 , name=lastname2]
+2018-03-11 12:50:09 DEBUG file - Sending email to test1@test.com
+2018-03-11 12:50:10 INFO  file - Country [id= test2@test.com, code= firstname2 , name=lastname2]
+2018-03-11 12:50:11 INFO  file - Country [id= test3@test.com, code= firstname3 , name=last"name3]
+2018-03-11 12:50:11 DEBUG file - Sending email to test2@test.com
+2018-03-11 12:50:13 DEBUG file - Sending email to test3@test.com

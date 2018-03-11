@@ -1,0 +1,114 @@
+2018-03-11 12:58:44 DEBUG file - Sending email to test1@test.com
+2018-03-11 12:58:45 DEBUG file - Country [id= test1@test.com, code= firstname1 , name=lastname1]
+2018-03-11 12:58:46 DEBUG file - Country [id= test1@test.com, code= firstname1 , name=lastname2]
+2018-03-11 12:58:46 DEBUG file - Mail sent to test1@test.com
+2018-03-11 12:58:46 DEBUG file - Sending email to test1@test.com
+2018-03-11 12:58:47 DEBUG file - Country [id= test2@test.com, code= firstname2 , name=lastname2]
+2018-03-11 12:58:48 DEBUG file - Country [id= test3@test.com, code= firstname3 , name=last"name3]
+2018-03-11 12:58:48 DEBUG file - Mail sent to test1@test.com
+2018-03-11 12:58:48 DEBUG file - Sending email to test2@test.com
+2018-03-11 12:58:50 DEBUG file - Mail sent to test2@test.com
+2018-03-11 12:58:50 DEBUG file - Sending email to test3@test.com
+2018-03-11 12:58:52 DEBUG file - Mail sent to test3@test.com
+2018-03-11 12:59:58 DEBUG file - Sending email to test1@test.com
+2018-03-11 12:59:59 DEBUG file - Country [id= test1@test.com, code= firstname1 , name=lastname1]
+2018-03-11 13:00:00 DEBUG file - Country [id= test1@test.com, code= firstname1 , name=lastname2]
+2018-03-11 13:00:00 DEBUG file - Mail sent to test1@test.com
+2018-03-11 13:00:00 DEBUG file - Sending email to test1@test.com
+2018-03-11 13:00:01 DEBUG file - Country [id= test2@test.com, code= firstname2 , name=lastname2]
+2018-03-11 13:00:02 DEBUG file - Country [id= test3@test.com, code= firstname3 , name=last"name3]
+2018-03-11 13:00:02 DEBUG file - Mail sent to test1@test.com
+2018-03-11 13:00:02 DEBUG file - Sending email to test2@test.com
+2018-03-11 13:00:04 DEBUG file - Mail sent to test2@test.com
+2018-03-11 13:00:04 DEBUG file - Sending email to test3@test.com
+2018-03-11 13:00:06 DEBUG file - Mail sent to test3@test.com
+2018-03-11 13:00:43 DEBUG file - Sending email to test1@test.com
+2018-03-11 13:00:44 DEBUG file - Email = test1@test.com, first Name= firstname1 , last Name=lastname1]
+2018-03-11 13:00:45 DEBUG file - Email = test1@test.com, first Name= firstname1 , last Name=lastname2]
+2018-03-11 13:00:45 DEBUG file - Mail sent to test1@test.com
+2018-03-11 13:00:45 DEBUG file - Sending email to test1@test.com
+2018-03-11 13:00:46 DEBUG file - Email = test2@test.com, first Name= firstname2 , last Name=lastname2]
+2018-03-11 13:00:47 DEBUG file - Mail sent to test1@test.com
+2018-03-11 13:00:47 DEBUG file - Email = test3@test.com, first Name= firstname3 , last Name=last"name3]
+2018-03-11 13:00:47 DEBUG file - Sending email to test2@test.com
+2018-03-11 13:00:49 DEBUG file - Mail sent to test2@test.com
+2018-03-11 13:00:49 DEBUG file - Sending email to test3@test.com
+2018-03-11 13:00:51 DEBUG file - Mail sent to test3@test.com
+2018-03-11 13:02:18 DEBUG file - Started readCsv() 
+2018-03-11 13:02:18 DEBUG file - Sending email to test1@test.com
+2018-03-11 13:02:19 DEBUG file - Fron CSV file Email = test1@test.com, first Name= firstname1 , last Name=lastname1
+2018-03-11 13:02:20 DEBUG file - Fron CSV file Email = test1@test.com, first Name= firstname1 , last Name=lastname2
+2018-03-11 13:02:20 DEBUG file - Mail sent to test1@test.com
+2018-03-11 13:02:20 DEBUG file - Sending email to test1@test.com
+2018-03-11 13:02:21 DEBUG file - Fron CSV file Email = test2@test.com, first Name= firstname2 , last Name=lastname2
+2018-03-11 13:02:22 DEBUG file - Mail sent to test1@test.com
+2018-03-11 13:02:22 DEBUG file - Fron CSV file Email = test3@test.com, first Name= firstname3 , last Name=last"name3
+2018-03-11 13:02:22 DEBUG file - Sending email to test2@test.com
+2018-03-11 13:02:24 DEBUG file - Mail sent to test2@test.com
+2018-03-11 13:02:24 DEBUG file - Sending email to test3@test.com
+2018-03-11 13:02:26 DEBUG file - Mail sent to test3@test.com
+2018-03-11 16:20:43 DEBUG file - Started readCsv() 
+2018-03-11 16:20:43 DEBUG file - Fron CSV file Email = test1@test.com, first Name= firstname1 , last Name=lastname1
+2018-03-11 16:20:43 DEBUG file - Fron CSV file Email = test1@test.com, first Name= firstname1 , last Name=lastname2
+2018-03-11 16:20:43 DEBUG file - Fron CSV file Email = test2@test.com, first Name= firstname2 , last Name=lastname2
+2018-03-11 16:20:43 DEBUG file - Fron CSV file Email = test3@test.com, first Name= firstname3 , last Name=last"name3
+2018-03-11 16:20:43 DEBUG file - Sending email to test1@test.com
+2018-03-11 16:20:45 DEBUG file - Mail sent to test1@test.com
+2018-03-11 16:20:45 DEBUG file - Sending email to test1@test.com
+2018-03-11 16:20:47 DEBUG file - Mail sent to test1@test.com
+2018-03-11 16:20:47 DEBUG file - Sending email to test2@test.com
+2018-03-11 16:20:49 DEBUG file - Mail sent to test2@test.com
+2018-03-11 16:20:49 DEBUG file - Sending email to test3@test.com
+2018-03-11 16:20:51 DEBUG file - Mail sent to test3@test.com
+2018-03-11 16:32:41 DEBUG file - Started readCsv() 
+2018-03-11 16:32:41 DEBUG file - Fron CSV file Email = test1@test.com, first Name= firstname1 , last Name=lastname1
+2018-03-11 16:32:41 DEBUG file - Fron CSV file Email = test1@test.com, first Name= firstname1 , last Name=lastname2
+2018-03-11 16:32:41 DEBUG file - Fron CSV file Email = test2@test.com, first Name= firstname2 , last Name=lastname2
+2018-03-11 16:32:41 DEBUG file - Fron CSV file Email = test3@test.com, first Name= firstname3 , last Name=last"name3
+2018-03-11 16:32:41 DEBUG file - Sending email to test3@test.com
+2018-03-11 16:32:41 DEBUG file - Sending email to test1@test.com
+2018-03-11 16:32:41 DEBUG file - Sending email to test1@test.com
+2018-03-11 16:32:41 DEBUG file - Sending email to test2@test.com
+2018-03-11 16:32:42 DEBUG file - Mail sent to test3@test.com
+2018-03-11 16:32:42 DEBUG file - Mail sent to test1@test.com
+2018-03-11 16:32:42 DEBUG file - Mail sent to test1@test.com
+2018-03-11 16:32:42 DEBUG file - Mail sent to test2@test.com
+2018-03-11 16:33:32 DEBUG file - Started readCsv() 
+2018-03-11 16:33:32 DEBUG file - Fron CSV file Email = test1@test.com, first Name= firstname1 , last Name=lastname1
+2018-03-11 16:33:32 DEBUG file - Fron CSV file Email = test1@test.com, first Name= firstname1 , last Name=lastname2
+2018-03-11 16:33:32 DEBUG file - Fron CSV file Email = test2@test.com, first Name= firstname2 , last Name=lastname2
+2018-03-11 16:33:32 DEBUG file - Fron CSV file Email = test3@test.com, first Name= firstname3 , last Name=last"name3
+2018-03-11 16:33:32 DEBUG file - Sending email to test1@test.com
+2018-03-11 16:33:32 DEBUG file - Sending email to test2@test.com
+2018-03-11 16:33:32 DEBUG file - Sending email to test3@test.com
+2018-03-11 16:33:32 DEBUG file - Sending email to test1@test.com
+2018-03-11 16:33:33 DEBUG file - Mail sent to test2@test.com
+2018-03-11 16:33:33 DEBUG file - Mail sent to test1@test.com
+2018-03-11 16:33:33 DEBUG file - Mail sent to test3@test.com
+2018-03-11 16:33:33 DEBUG file - Mail sent to test1@test.com
+2018-03-11 16:36:36 DEBUG file - Started readCsv() 
+2018-03-11 16:36:36 DEBUG file - Fron CSV file Email = test1@test.com, first Name= firstname1 , last Name=lastname1
+2018-03-11 16:36:36 DEBUG file - Fron CSV file Email = test1@test.com, first Name= firstname1 , last Name=lastname2
+2018-03-11 16:36:36 DEBUG file - Fron CSV file Email = test2@test.com, first Name= firstname2 , last Name=lastname2
+2018-03-11 16:36:36 DEBUG file - Fron CSV file Email = test3@test.com, first Name= firstname3 , last Name=last"name3
+2018-03-11 16:36:36 DEBUG file - Sending email to test2@test.com
+2018-03-11 16:36:36 DEBUG file - Sending email to test3@test.com
+2018-03-11 16:36:36 DEBUG file - Sending email to test1@test.com
+2018-03-11 16:36:36 DEBUG file - Sending email to test1@test.com
+2018-03-11 16:36:37 DEBUG file - Mail sent to test2@test.com
+2018-03-11 16:36:37 DEBUG file - Mail sent to test3@test.com
+2018-03-11 16:36:37 DEBUG file - Mail sent to test1@test.com
+2018-03-11 16:36:37 DEBUG file - Mail sent to test1@test.com
+2018-03-11 16:41:33 DEBUG file - Started readCsv() 
+2018-03-11 16:41:33 DEBUG file - Fron CSV file Email = test1@test.com, first Name= firstname1 , last Name=lastname1
+2018-03-11 16:41:33 DEBUG file - Fron CSV file Email = test1@test.com, first Name= firstname1 , last Name=lastname2
+2018-03-11 16:41:33 DEBUG file - Fron CSV file Email = test2@test.com, first Name= firstname2 , last Name=lastname2
+2018-03-11 16:41:33 DEBUG file - Fron CSV file Email = test3@test.com, first Name= firstname3 , last Name=last"name3
+2018-03-11 16:41:33 DEBUG file - Sending email to test3@test.com
+2018-03-11 16:41:33 DEBUG file - Sending email to test1@test.com
+2018-03-11 16:41:33 DEBUG file - Sending email to test1@test.com
+2018-03-11 16:41:33 DEBUG file - Sending email to test2@test.com
+2018-03-11 16:41:58 DEBUG file - Mail sent to test3@test.com
+2018-03-11 16:41:58 DEBUG file - Mail sent to test1@test.com
+2018-03-11 16:41:58 DEBUG file - Mail sent to test1@test.com
+2018-03-11 16:41:58 DEBUG file - Mail sent to test2@test.com
